@@ -9,7 +9,7 @@
 // divMain.appendChild(divBox);
 // console.log(divMain);
 
-// let button = document.createElement("button")
+// let button = document.createElement("button");
 // button.classList.add("w-40","bg-gray-200" ,"border-2", "border-black","mt-5")
 // button.innerHTML = "click here"
 // button.id = "button"
@@ -20,10 +20,10 @@
 
 
 
-// llamarBoton = document.getElementById("button");
+// let llamarBoton = document.getElementById("button");
 // console.log(llamarBoton);
 
-// cuadradoGris = document.querySelector(".div");
+// let cuadradoGris = document.querySelector(".div");
 // console.log(cuadradoGris);
 
 
@@ -31,7 +31,7 @@
 
 
 
-// let colorRojo = false;
+// let colorRojo = false; //defini una variable llamada colorRojo y le dije que por defecto iba a ser falsa
 
 
 // function llamar(){
@@ -272,9 +272,7 @@
 // function multiplicar(){
 
 
-// // let resultado = inputHeight.value * inputWeight.value ;
 
-// // return resultado;
 
 // let weigth = inputWeight.value;
 // let height = inputHeight.value;
